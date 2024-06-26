@@ -2,6 +2,7 @@
 Project done using Python, NumPy, Matplotlib
 
 **Developed a Personal Expense Manager Application:** Conceptualized and implemented a robust expense management system using Python and NumPy, streamlining personal financial tracking and analysis.
+
 **Advanced Data Management:** Leveraged NumPy structured arrays to efficiently store, manipulate, and retrieve expense data, ensuring optimal performance and scalability.
 **Comprehensive CRUD Operations:** Implemented essential CRUD functionalities to add, update, delete, and view expenses, enhancing data accessibility and user control.
 **Financial Calculations and Reporting:** Created functions to calculate total expenses, category-specific expenses, and average expenses, providing valuable financial insights and detailed reporting.
